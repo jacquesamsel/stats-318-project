@@ -1,0 +1,11 @@
+data/
+amazon_data/
+.vscode/
+.ipynb_checkpoints/
+.virtual_documents/
+*.pickle
+*.docx
+*.pdf
+*.csv
+
+.DS_Store
